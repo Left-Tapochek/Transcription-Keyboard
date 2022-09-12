@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keyboard", "Claviatura\Keyboard.csproj", "{8CF02590-14EE-4052-BE57-674CE41BE16F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CF02590-14EE-4052-BE57-674CE41BE16F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CF02590-14EE-4052-BE57-674CE41BE16F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CF02590-14EE-4052-BE57-674CE41BE16F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CF02590-14EE-4052-BE57-674CE41BE16F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A91150AB-22F9-47E5-9E6D-EBA2C9604A25}
+	EndGlobalSection
+EndGlobal
